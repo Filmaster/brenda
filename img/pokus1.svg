@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg version="1.1" viewBox="0 0 1154.3 760" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<image x="14.34" width="1140" height="760" preserveAspectRatio="none" xlink:href="brenda.jpg"/>
+	<g stroke="#000" stroke-width="1px">
+		<path d="m686.06 374.17 34.953-5.3774 10.755 15.236-17.925 7.6179-25.094 4.033z" fill="#0f0"/>
+		<path d="m576.27 354.01 30.92-1.3443-0.44812 20.613-17.925 1.7924 2.6887 26.439h-17.925z" fill="#ff0"/>
+		<path d="m577.62 416.3 27.335-0.89623 0.44811 48.844-21.509 0.89623z" fill="#d40000"/>
+		<path d="m621.08 476.79 6.2736-19.717-18.821-2.6887-1.3443 23.75z" fill="#f0f"/>
+		<path d="m95.448 328.47 51.533-12.547 28.679 0.44811-4.4811 47.052-73.042 6.2736z" fill="#008000"/>
+		<path d="m117.41 399.27-2.2406-29.575h-104.41l2.6887 44.363 103.96-8.066z" fill="#00f"/>
+		<path d="m570.9 289.93 32.264-0.89623-0.44812 19.717-37.642-1.3443-199.86 13.443-8.5142-26.439 31.368-4.033 5.3774 15.236 177.9-11.203z" fill="#500"/>
+		<path d="m817.81 256.32 42.571 149.22 22.406-6.2736 9.4104-12.995 51.981-5.3774 45.708 22.406 58.255 0.44811 53.774 81.108 57.358-6.2736-4.0331-202.55-133.54 9.8585-175.66-31.368z" fill="#f55"/>
+	</g>
+</svg>
